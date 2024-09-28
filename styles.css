@@ -1,0 +1,73 @@
+body{
+    display: flex ;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    width: 100%;
+}
+.dpes {
+    display: block;
+    align-items: center;
+}
+.page-dpes{
+    border-width: 1px;
+}
+fieldset.dpes form p{
+    display: inline-block;
+    margin: auto;
+    padding: 0px;
+    width: 50px;
+}
+
+input#bt-enviar{
+    margin-top: 15px;
+    margin-left: 10px;
+}
+
+input#bt-limpar{
+    margin-top: 15px;
+    margin-left: 10px;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+.dprof{
+    height: auto;
+}
+
+.nat-cargo{
+    text-align: left;
+    padding: 0px;
+    
+
+}
+
+form.nat-cargo p{
+    display: flex;
+    height: 0px;
+    margin-top: 0px;
+    
+    
+}
+form.nat-cargo{
+    display: inline-block;
+    height: 0px;
+    padding: 0px;
+}
+input#mini-curriculo{
+    height: 100px;
+    width: 80%;
+}
+
+
